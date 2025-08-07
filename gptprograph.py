@@ -118,3 +118,5 @@ plt.savefig(f"{OUTPUT_DIR}/network_arp_dns_summary.png")
 plt.show()
 
 print(f"[+] Chart saved as: {OUTPUT_DIR}/network_arp_dns_summary.png")
+
+#This code is updated in git
